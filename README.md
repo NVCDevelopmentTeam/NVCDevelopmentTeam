@@ -30,8 +30,8 @@
 If you are interested in our projects or want to cooperate with us, you can contact us through the following channels:
 
 - Email: Quang.hnm.hd.2k@gmail.com
-- Facebook: Vietnamese blind programming community
-- Discord: NVCDevelopmentTeam
-- Google meet: NVCDevelopmentTeam
+- Facebook: <a href="https://web.facebook.com/groups/congdonglaptrinhkhiemthivietnam?_rdc=1&_rdr">Vietnamese blind programming community </a>
+- Discord: <a href="https://discord.gg/jnbYsERw">NVCDevelopmentTeam </a>
+- Google meet: <a href="https://duo.app.goo.gl/EXVi04L4zpq5VLz8aXT799">NVCDevelopmentTeam
 
 Thank you for visiting our profile. Have a good day! 😊
