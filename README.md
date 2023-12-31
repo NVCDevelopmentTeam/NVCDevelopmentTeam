@@ -1,4 +1,4 @@
-#NVCDevelopmentTeam
+# NVCDevelopmentTeam
 <p align="center">
   <img src="https://github.com/NVCDevelopmentTeam/NVCDevelopmentTeam/blob/main/logo.png" alt="NVC development team logo" width="200" height="200">
 </p>
