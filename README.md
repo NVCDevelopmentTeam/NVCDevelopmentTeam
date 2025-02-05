@@ -22,9 +22,9 @@
 - ZSR (Zepp OS Screen Reader): a screen reader for the blind that runs on Amazfit wearable devices running the ZEPP Os operating system.
 
 ## 🛠️ Our skills and technology
-- Programming languages: **Python**, **Java**, **php**, **JavaScript**
-- Technology: **svelte**, **React**, **Node.js**, **MongoDB**, **Firebase**, **TensorFlow**
-- Other tools: **Git**, **GitHub**, **VS Code**, **Android Studio**, **Jupyter Notebook**
+- Programming languages: **CSS**, **html**, **JavaScript**
+- Technology: **svelte**, **sveltekit**, **Node.js**, **svelte native**, **SQLite** 
+- Other tools: **Git**, **GitHub**, **VS Code**, **accessibility tools**, **chrome dev tools**
 
 ## 📫 Contact us
 If you are interested in our projects or want to cooperate with us, you can contact us through the following channels:
